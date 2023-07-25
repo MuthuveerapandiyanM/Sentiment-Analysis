@@ -4,7 +4,7 @@
 
 ### We can even break these principal sentiments(positive and negative) into smaller sub sentiments such as “Happy”, “Love”, ”Surprise”, “Sad”, “Fear”, “Angry” etc. as per the needs or business requirement.
 
-Basic Python Libraries
+### Basic Python Libraries
 
 1. Pandas – library for data analysis and data manipulation
 2. Matplotlib – library used for data visualization
@@ -12,7 +12,7 @@ Basic Python Libraries
 4. WordCloud – library to visualize text data
 5. re – provides functions to pre-process the strings as per the given regular expression
 
-Natural Language Processing
+### Natural Language Processing
 
 1. nltk – Natural Language Toolkit is a collection of libraries for natural language processing
 
@@ -26,7 +26,7 @@ Natural Language Processing
 
 6. RandomForestClassifier – machine learning algorithm for classification
 
-Evaluation Metrics
+### Evaluation Metrics
 
 1. Accuracy Score – no. of correctly classified instances/total no. of instances
 
